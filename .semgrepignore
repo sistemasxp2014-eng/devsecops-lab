@@ -1,0 +1,2 @@
+# Ignorar configuraciones de CI/CD del escaneo de código fuente
+.github/
