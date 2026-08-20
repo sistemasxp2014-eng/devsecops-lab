@@ -1,3 +1,4 @@
+# checkov:skip=CKV2_DOCKER_2: No se requiere healthcheck para este laboratorio de desarrollo
 FROM python:3.11-slim
 WORKDIR /app
 RUN useradd -m appuser
